@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/attendance",
+      "dest": "/api/attendance.js"
+    },
+    {
+      "src": "/",
+      "dest": "/api/attendance.js"
+    }
+  ]
+}

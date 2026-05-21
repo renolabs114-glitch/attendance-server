@@ -1,0 +1,5 @@
+{
+  "name": "attendance-server",
+  "version": "1.0.0",
+  "description": "RFID Attendance forwarding server - NodeMCU to Google Sheets"
+}
