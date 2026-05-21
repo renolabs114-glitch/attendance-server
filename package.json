@@ -1,5 +1,9 @@
 {
   "name": "attendance-server",
   "version": "1.0.0",
-  "description": "RFID Attendance forwarding server - NodeMCU to Google Sheets"
+  "description": "RFID Attendance forwarding server - NodeMCU to Google Sheets",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js"
 }
